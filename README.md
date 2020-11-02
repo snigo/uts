@@ -1,0 +1,2 @@
+# uts
+Universal type schema
